@@ -1,0 +1,6 @@
+@RohitEFCoreDemo_HostAddress = http://localhost:5147
+
+GET {{RohitEFCoreDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
